@@ -1,0 +1,7 @@
+.home {
+    background: linear-gradient(to top, rgb(98, 98, 137), rgb(223, 202, 202));
+    padding: 2rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1.5rem;
+}

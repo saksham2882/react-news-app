@@ -1,0 +1,51 @@
+footer {
+    background-color: #333;
+    color: white;
+    padding: 2rem;
+    text-align: center;
+    font-size: 0.9rem;
+    letter-spacing: 1.5px;
+}
+
+footer .social-icons {
+    margin: 1.5rem;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+footer .social-icons a {
+    color: white;
+    font-size: 1.5rem;
+    transition: color 0.3s ease-in-out;
+}
+
+footer .social-icons a:hover {
+    color: #007bff;
+}
+
+footer p {
+    animation: slideIn 1s ease-in-out;
+}
+
+@keyframes slideIn {
+    from {
+        transform: translateY(50px);
+        opacity: 0;
+    }
+    
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+@media (max-width: 576px) {
+    .home {
+        grid-template-columns: 1fr;
+    }
+
+    nav ul {
+        gap: 0.5rem;
+    }
+}

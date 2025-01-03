@@ -6,7 +6,7 @@ A fully responsive React.js application that fetches and displays the latest new
 
 ## 🎥 Project Demo
 <div align="center">
-  <img src="public/Project Demo.gif" alt="GIF Description" />
+  <img src="public/projectDemo.gif" alt="GIF Description" />
 </div> <br>
 
 ---

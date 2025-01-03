@@ -1,6 +1,13 @@
 # React News App 📰
 
-A fully responsive React.js application that fetches and displays the latest news using the News API. Users can browse trending news, search for specific topics, and view detailed articles.
+A fully responsive React.js application that fetches and displays the latest news using the News API. Users can browse trending news, search for specific topics, and view detailed articles. <br><br>
+
+---
+
+## 🎥 Project Demo
+<div align="center">
+  <img src="public/Project Demo.gif" alt="GIF Description" />
+</div> <br>
 
 ---
 

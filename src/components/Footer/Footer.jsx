@@ -14,7 +14,7 @@ const Footer = React.memo(() => {
                     <a href="/" target="_blank" rel="noopener noreferrer"><FaLinkedin /></a>
                     <a href="/" target="_blank" rel="noopener noreferrer"><FaYoutube /></a>
                 </div>
-                <p>&copy; Copyright 2024, Owner Saksham Agrahari, All Right are Reserved.</p>
+                <p>&copy; Copyright 2025, Owner Saksham Agrahari. All Rights are Reserved.</p>
             </footer>
         </>
     )
